@@ -16,7 +16,7 @@ app.secret_key = 'sua_chave_secreta'  # Adicione uma chave secreta para usar fla
 
 
 # API Key do Google Maps 
-api_key = 'AIzaSyBau5j0lo8SVyBfrBJMZzhFBIQEbB2kd2I'
+
 
 # Configuração do Google OAuth
 
